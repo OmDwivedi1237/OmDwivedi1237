@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmDwivedi1237 Im 14years old!
+- 👋 Hi, I’m @OmDwivedi1237 Im 14 years old!
 - 👀 I’m interested in Computer Science, Cybersecurity
 - 🌱 I’m currently learning Ethical Hacking,Cybersecurity and Python!
 - 💞️ I’m looking forawrd to collaborating with you!
