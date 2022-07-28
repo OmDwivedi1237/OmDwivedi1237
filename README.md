@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OmDwivedi1237 Im 13 years old!
-- 👀 I’m interested in Cybersecurity and Ethical Hacking
-- 🌱 I’m currently learning Ethical Hacking, Penetration testing tips, and Python!
-- 💞️ I’m looking to collaborate on projects later on
+- 👋 Hi, I’m @OmDwivedi1237 Im 14years old!
+- 👀 I’m interested in Computer Science, Cybersecurity
+- 🌱 I’m currently learning Ethical Hacking,Cybersecurity and Python!
+- 💞️ I’m looking forawrd to collaborating with you!
 - 📫 How to reach me. Just contact me through my email for additional info and/or projects! (26dwivediom@gmail.com)
 
 <!---
